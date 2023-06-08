@@ -1,4 +1,4 @@
-package June6;
+package basics.June6;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
