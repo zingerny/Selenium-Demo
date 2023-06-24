@@ -49,7 +49,7 @@ List<WebElement>  prices = driver.findElements(By.xpath("//li[@class='price-curr
          priceAsDouble.add(Double.valueOf(priceFixed));
         }
 
-
+//warm ip file updated
 //        System.out.println(priceAsDouble);
 //        priceAsDouble.sort(Comparator.naturalOrder());
 //
